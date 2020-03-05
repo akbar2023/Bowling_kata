@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.renault.bowling.BowlingTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-03-05T13:08:13" hostname="FRLH136510" time="0.028">
+  <properties/>
+  <testcase name="should_return_12_when_total_point_is_12()" classname="com.renault.bowling.BowlingTest" time="0.014"/>
+  <testcase name="should_return_34_when_total_point_is_34()" classname="com.renault.bowling.BowlingTest" time="0.001"/>
+  <testcase name="should_score_must_be_21_when_total_point_is_21()" classname="com.renault.bowling.BowlingTest" time="0.0"/>
+  <testcase name="should_score_must_be_1_when_total_point_is_1()" classname="com.renault.bowling.BowlingTest" time="0.003"/>
+  <testcase name="should_return_26_when_total_point_is_26()" classname="com.renault.bowling.BowlingTest" time="0.0"/>
+  <testcase name="should_score_must_be_15_when_total_point_is_15()" classname="com.renault.bowling.BowlingTest" time="0.001"/>
+  <testcase name="should_score_must_be_14_when_total_point_is_14()" classname="com.renault.bowling.BowlingTest" time="0.001"/>
+  <testcase name="should_score_must_be_12_when_total_point_is_12()" classname="com.renault.bowling.BowlingTest" time="0.0"/>
+  <testcase name="should_score_must_be_10_when_total_point_is_10()" classname="com.renault.bowling.BowlingTest" time="0.0"/>
+  <testcase name="should_score_must_be_2_when_total_point_is_2()" classname="com.renault.bowling.BowlingTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
